@@ -1,5 +1,8 @@
 package tradewars;
 
+/**
+ * Holds product state
+ */
 public class Product implements TraderConstants {
   final static int EVENT_RATE = 3;
   final static int EVENT_CHANCE = 30;

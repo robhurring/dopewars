@@ -1,14 +1,10 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.events;
 
 import tradewars.Game;
 import tradewars.Message;
 
 /**
- *
+ * Simple event that will heal the user a small amount when they switch places
  * @author rob
  */
 public class AutoHealEvent extends Event {

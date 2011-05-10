@@ -1,5 +1,8 @@
 package tradewars;
 
+/**
+ * Simple interface to a class to be "fightable"
+ */
 public interface Fighter 
 {
   public boolean isAlive();

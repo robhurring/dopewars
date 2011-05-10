@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.events;
 
 import tradewars.Fight;
@@ -9,7 +5,7 @@ import tradewars.Game;
 import tradewars.Message;
 
 /**
- *
+ * Event to handle if fights are to pop up
  * @author rob
  */
 public class FightEvent extends Event {

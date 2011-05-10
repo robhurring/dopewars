@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars;
 
 import tradewars.exceptions.CannotAffordException;
@@ -10,13 +6,12 @@ import tradewars.exceptions.InvalidTradeException;
 import tradewars.exceptions.OutOfSpaceException;
 
 /**
- *
+ * Holds state for the current trade
  * @author rob
  */
 public class Trade {
 
   public static enum Mode {
-
     BUY, SELL
   };
   private Product product;

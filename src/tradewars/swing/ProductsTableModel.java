@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.swing;
 
 import javax.swing.table.AbstractTableModel;
@@ -9,7 +5,7 @@ import tradewars.Game;
 import tradewars.Product;
 
 /**
- *
+ * Handles the products table list of products
  * @author rob
  */
 public class ProductsTableModel extends AbstractTableModel {

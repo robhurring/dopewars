@@ -1,14 +1,10 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.events;
 
 import tradewars.Game;
 import tradewars.Message;
 
 /**
- *
+ * Event to randomly remove a random amount of cash
  * @author rob
  */
 public class TripEvent extends Event {

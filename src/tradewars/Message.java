@@ -1,13 +1,9 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars;
 
 import java.awt.Color;
 
 /**
- *
+ * A message holder that can handle colors
  * @author rob
  */
 public class Message {

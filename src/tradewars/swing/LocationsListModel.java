@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.swing;
 
 import javax.swing.AbstractListModel;
@@ -10,7 +6,7 @@ import tradewars.Game;
 import tradewars.Location;
 
 /**
- *
+ * Manages the locations table list
  * @author rob
  */
 public class LocationsListModel extends AbstractListModel implements ComboBoxModel {

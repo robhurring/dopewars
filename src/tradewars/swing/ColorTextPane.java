@@ -4,6 +4,9 @@ import javax.swing.*;
 import javax.swing.text.*;
 import java.awt.Color;
 
+/**
+ * TextPage than can handle a different color per line
+ */
 public class ColorTextPane extends JTextPane {
 
   public void append(Color color, String text) {

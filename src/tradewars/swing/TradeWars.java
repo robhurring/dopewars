@@ -1,13 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/*
- * Gui.java
- *
- * Created on Mar 4, 2011, 10:47:06 AM
- */
 package tradewars.swing;
 
 import java.awt.Color;
@@ -21,7 +11,7 @@ import tradewars.*;
 import tradewars.events.*;
 
 /**
- *
+ * Main app that ties together tradewars with swing
  * @author rob
  */
 public class TradeWars extends javax.swing.JFrame {

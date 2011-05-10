@@ -3,6 +3,9 @@ package tradewars;
 import tradewars.exceptions.*;
 import java.util.*;
 
+/**
+ * Holds state for the player
+ */
 public class Player implements TraderConstants, Fighter {
 
   private String name;

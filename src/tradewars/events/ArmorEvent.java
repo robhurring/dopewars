@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.events;
 
 import tradewars.Game;
@@ -10,7 +6,7 @@ import tradewars.Player;
 import tradewars.TraderConstants;
 
 /**
- *
+ * Handles the event where we ask the user if they want to upgrade their armor
  * @author rob
  */
 public class ArmorEvent extends Event {

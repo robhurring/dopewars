@@ -1,10 +1,13 @@
-//http://gotgoodlist.com/dopewars-prices-stats-and-facts/
 package tradewars;
 
 import tradewars.events.*;
 import tradewars.exceptions.*;
 import java.util.*;
 
+/**
+ * Main dopewars game class. Holds state for the game
+ * @see http://gotgoodlist.com/dopewars-prices-stats-and-facts for some changes data from the original dopewars
+ */
 public final class Game implements TraderConstants {
 
   static private Game instance = null;

@@ -1,12 +1,7 @@
 package tradewars;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
- *
+ * NPC for fights
  * @author rob
  */
 public class Npc implements Fighter {

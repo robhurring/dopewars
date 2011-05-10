@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.events;
 
 import tradewars.Game;
@@ -9,7 +5,7 @@ import tradewars.Message;
 import tradewars.Player;
 
 /**
- *
+ * Event to handle if the user wants to upgrade their coat and gain more space
  * @author rob
  */
 public class CoatEvent extends Event {

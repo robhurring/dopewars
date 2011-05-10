@@ -1,5 +1,8 @@
 package tradewars;
 
+/**
+ * Holds information about the location. Whats for sale, etc.
+ */
 public class Location 
 {
   protected String name;

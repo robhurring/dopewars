@@ -1,8 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package tradewars.events;
 
 import tradewars.Game;
@@ -11,7 +6,7 @@ import tradewars.Player;
 import tradewars.TraderConstants;
 
 /**
- *
+ * Base event class
  * @author rob
  */
 public abstract class Event implements TraderConstants {

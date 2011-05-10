@@ -1,5 +1,8 @@
 package tradewars.exceptions;
 
+/**
+ * Raise when the quantity exceeds the allowed space
+ */
 public class QuantityOutOfBoundsException extends Exception {
 
   public QuantityOutOfBoundsException() {

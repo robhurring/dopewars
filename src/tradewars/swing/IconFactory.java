@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.swing;
 
 import java.net.URL;
@@ -10,7 +6,7 @@ import javax.swing.JOptionPane;
 import tradewars.Product;
 
 /**
- *
+ * Manages the icons for the swing application
  * @author rob
  */
 public class IconFactory {

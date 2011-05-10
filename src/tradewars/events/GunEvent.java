@@ -1,14 +1,10 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.events;
 
 import tradewars.Game;
 import tradewars.Message;
 
 /**
- *
+ * Event to aks the user if they want to upgrade their weapon
  * @author rob
  */
 public class GunEvent extends Event {

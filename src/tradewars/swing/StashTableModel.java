@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.swing;
 
 import java.util.ArrayList;
@@ -11,7 +7,7 @@ import tradewars.Game;
 import tradewars.Product;
 
 /**
- *
+ * Handles the stash table list of products
  * @author rob
  */
 public class StashTableModel extends AbstractTableModel {

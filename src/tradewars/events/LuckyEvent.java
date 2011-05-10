@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.events;
 
 import tradewars.Game;
@@ -9,7 +5,7 @@ import tradewars.Message;
 import tradewars.Product;
 
 /**
- *
+ * Event to randomly award the user a random product
  * @author rob
  */
 public class LuckyEvent extends Event {

@@ -1,11 +1,7 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package tradewars.exceptions;
 
 /**
- *
+ * Raised when a trade is invalid. e.g.: less than 1 quantity
  * @author rob
  */
 public class InvalidTradeException extends Exception {
