@@ -83,9 +83,3 @@ Events are a bit trickier since they can encompass so many different things. A g
 
 To trigger an event the `inEvent()` method should return true. there is a `hit` helper to assist with this -- pass in a number and it will match a random number against
 it. For examples of events, check the `tradewars.events` package.
-    
-
-
-
-
-
