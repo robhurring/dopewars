@@ -9,7 +9,7 @@ import tradewars.Message;
  * @author rob
  */
 public class FightEvent extends Event {
-  final static int CHANCE = 8;
+  final static int CHANCE = 10;
 
   public FightEvent(Game game){
     super(game);
