@@ -11,11 +11,11 @@ Screenshots
 
 ![Tradewars](http://0rcus.com/i/tradewars/tradewars-1.png "TradeWars")
 
+![Tradewars Event](http://0rcus.com/i/tradewars/tradewars-4.png "TradeWars - Event")
+
 ![Tradewars Fight](http://0rcus.com/i/tradewars/tradewars-2.png "TradeWars - Fight!")
 
 ![Tradewars Trade](http://0rcus.com/i/tradewars/tradewars-3.png "TradeWars - Trade")
-
-![Tradewars Event](http://0rcus.com/i/tradewars/tradewars-4.png "TradeWars - Event")
 
 Customization
 -------------
