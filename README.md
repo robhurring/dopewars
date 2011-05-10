@@ -6,6 +6,15 @@ to dopewars as an homage to one of my favorite oldschool games :)
 
 I tried to keep the tradewars package outside of swing where I could, so it can be easily adapted to a console game if you wanted. 
 
+Screenshots
+-----------
+
+![Tradewars](http://0rcus.com/i/tradewars/tradewars-1.png "TradeWars")
+
+![Tradewars Fight](http://0rcus.com/i/tradewars/tradewars-2.png "TradeWars - Fight!")
+
+![Tradewars Trade](http://0rcus.com/i/tradewars/tradewars-3.png "TradeWars - Trade")
+
 Customization
 -------------
 
