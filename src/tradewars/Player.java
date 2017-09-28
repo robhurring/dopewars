@@ -66,7 +66,7 @@ public class Player implements TraderConstants, Fighter {
   }
 
   /**
-   * @todo use .get() chaining since we've typed this out
+   * todo use .get() chaining since we've typed this out
    */
   public void removeProduct(Product product, int quantity, long price)
           throws QuantityOutOfBoundsException {
@@ -96,7 +96,7 @@ public class Player implements TraderConstants, Fighter {
   }
 
   /**
-   * @todo use .get() chaining since we've typed the products hash
+   * todo use .get() chaining since we've typed the products hash
    * @param product
    * @param quantity
    * @param price
